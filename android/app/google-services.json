@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "334442491394",
+    "firebase_url": "https://kitapistan-d320b-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "kitapistan-d320b",
+    "storage_bucket": "kitapistan-d320b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:334442491394:android:c64d39497a5c9178eb411b",
+        "android_client_info": {
+          "package_name": "com.example.kitapistan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDC6qkSGxHwmSkQr8QGuhK3LfSyU10VrzU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
