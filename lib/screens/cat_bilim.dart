@@ -47,7 +47,7 @@ class BilimState extends State {
                           margin: const EdgeInsets.only(right: 12),
                           decoration: BoxDecoration(
                             image: DecorationImage(
-                                image: NetworkImage(globals.images[index]),
+                                image: NetworkImage(globals.images[extraindex]),
                                 fit: BoxFit.fill),
                           ),
                           width: 120,
@@ -57,7 +57,7 @@ class BilimState extends State {
                           width: 120,
                           height: 48,
                           padding: const EdgeInsets.only(top: 8),
-                          child: Text(globals.book_names[index],
+                          child: Text(globals.book_names[extraindex],
                               style: const TextStyle(
                                   fontSize: 16, fontWeight: FontWeight.bold),
                               maxLines: 2,
@@ -68,7 +68,7 @@ class BilimState extends State {
                         Container(
                           padding: const EdgeInsets.only(top: 5, bottom: 10),
                           child: Text(
-                            "${globals.prices[index]} ₺",
+                            "${globals.prices[extraindex]} ₺",
                             style: const TextStyle(
                                 fontSize: 18,
                                 fontWeight: FontWeight.bold,

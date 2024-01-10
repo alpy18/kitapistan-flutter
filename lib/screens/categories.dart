@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:kitapistan/screens/ca_muzik.dart';
+import 'package:kitapistan/screens/cat_muzik.dart';
 import 'package:kitapistan/screens/cat_bilim.dart';
 import 'package:kitapistan/screens/cat_cocuk.dart';
 import 'package:kitapistan/screens/cat_edebiyat.dart';
